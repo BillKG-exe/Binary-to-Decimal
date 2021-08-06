@@ -1,7 +1,3 @@
-//Billy Ouattara
-//CSP 26B - Fall 2020
-//Take Home Final Exam - Question 01
-
 import java.util.Scanner;
 
 public class BinaryConversionToDecimal {
